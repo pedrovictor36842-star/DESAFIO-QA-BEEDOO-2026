@@ -22,5 +22,6 @@ https://docs.google.com/spreadsheets/d/1y0nnj6NDjVNiqbnXGJt6UNvS7C87Wtt_qi6bhETd
 
 Registro de bugs
 
+https://docs.google.com/document/d/1a0xkl_M_0Nq5Rz1iNM1m5Kkz-tVPDSpI/edit?usp=sharing&ouid=109669189228312723096&rtpof=true&sd=true
 
 
