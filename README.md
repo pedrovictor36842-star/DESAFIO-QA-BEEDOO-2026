@@ -14,3 +14,13 @@ Pontos Críticos para Teste
 Validação de Campos Obrigatórios: Verificar se o sistema impede o processamento quando campos essenciais não são preenchidos e se exibe mensagens de erro claras e precisas.
 Validação de Saída de Respostas: Garantir que o sistema retorne as informações corretas e no formato esperado após a interação do usuário.
 Tratamento de Erros: Avaliar a resiliência do sistema diante de falhas, especificamente em tentativas de exclusão de registros inexistentes ou em falhas de comunicação com o banco de dados, assegurando que o sistema não apresente comportamento instável.
+
+
+Cenarios e casos de testes
+
+https://docs.google.com/spreadsheets/d/1y0nnj6NDjVNiqbnXGJt6UNvS7C87Wtt_qi6bhETdaus/edit?gid=0#gid=0
+
+Registro de bugs
+
+
+
